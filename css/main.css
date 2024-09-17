@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.div1{
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    margin: 60px;
+    color: white;
+    border: 10px dotted black;
+    outline-offset: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 2px rgb(105, 5, 127);
+}
+.classbir{
+    background-image: url("../img/Background.jpg");
+    outline: 10px dashed black;
+}
+.classikki{
+    background-image: url(../img/background2.png);
+    outline: 10px dotted black;
+}
+.classuch{
+    background-image: url(../img/background3.jpg);
+    outline: 10px groove black;
+}
